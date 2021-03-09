@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/especial-camisea/static/css/main.64525a28.chunk.css",
+    "main.js": "/especial-camisea/static/js/main.e063d580.chunk.js",
+    "main.js.map": "/especial-camisea/static/js/main.e063d580.chunk.js.map",
+    "runtime-main.js": "/especial-camisea/static/js/runtime-main.a21a0594.js",
+    "runtime-main.js.map": "/especial-camisea/static/js/runtime-main.a21a0594.js.map",
+    "static/js/2.1f6ad222.chunk.js": "/especial-camisea/static/js/2.1f6ad222.chunk.js",
+    "static/js/2.1f6ad222.chunk.js.map": "/especial-camisea/static/js/2.1f6ad222.chunk.js.map",
+    "static/js/3.538335dd.chunk.js": "/especial-camisea/static/js/3.538335dd.chunk.js",
+    "static/js/3.538335dd.chunk.js.map": "/especial-camisea/static/js/3.538335dd.chunk.js.map",
+    "index.html": "/especial-camisea/index.html",
+    "static/css/main.64525a28.chunk.css.map": "/especial-camisea/static/css/main.64525a28.chunk.css.map",
+    "static/js/2.1f6ad222.chunk.js.LICENSE.txt": "/especial-camisea/static/js/2.1f6ad222.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a21a0594.js",
+    "static/js/2.1f6ad222.chunk.js",
+    "static/css/main.64525a28.chunk.css",
+    "static/js/main.e063d580.chunk.js"
+  ]
+}
